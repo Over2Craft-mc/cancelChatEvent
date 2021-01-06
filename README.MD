@@ -1,6 +1,6 @@
 # cancelChatEvent
  
-A very simple minecraft plugin that cancel the chat event
+A very simple spigot plugin that cancel the chat event
 
 ## Requirements 
 * Spigot 1.16.4 (others version not tested but should works on all versions)
