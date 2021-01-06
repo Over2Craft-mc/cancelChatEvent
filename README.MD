@@ -15,4 +15,4 @@ EventPriority: HIGHEST
 ```
 
 ## Download
-https://over2craft-mc.github.io/cancelChatEvent/target/cancelChatEvent.jar
+https://github.com/Over2Craft-mc/cancelChatEvent/raw/main/target/cancelChatEvent.jar
