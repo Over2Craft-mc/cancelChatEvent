@@ -1,0 +1,4 @@
+name: cancelChatEvent
+version: 1.0
+author: Over2Craft
+main: com.over2craft.cancelChatEvent.Main

@@ -1,0 +1,2 @@
+# see https://hub.spigotmc.org/javadocs/spigot/org/bukkit/event/EventPriority.html
+EventPriority: HIGHEST
